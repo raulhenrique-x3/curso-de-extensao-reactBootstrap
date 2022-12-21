@@ -1,0 +1,8 @@
+.img {
+  width: 50vw;
+  height: 100vh;
+
+  @media (max-width: 768px) {
+    display: none;
+  }
+}
